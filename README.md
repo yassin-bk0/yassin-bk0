@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">i'm yassin, I'm a passionate Full-Stack Developer from Tunisia.<br>"I specialize in programming development boards and have experience with multiple programming languages, including C, Python, and MicroPython."</p>
+<p align="left">I'm Yassin, I'm a passionate Full-Stack Developer from Tunisia.<br>"I specialize in programming development boards and have experience with multiple programming languages, including C, Python, and MicroPython."</p>
 
 ###
 
