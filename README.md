@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Blender to expand my skills into 3D modeling, animation, and visual design. It's been an exciting journey blending creativity with tech!<br>🎯 My goals include contributing to open-source projects, mentoring junior developers, and eventually leading a tech team focused on scalable software solutions.</p>
+
 
 ###
 
