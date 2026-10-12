@@ -10,7 +10,7 @@
 
 ###
 
-
+<p align="left"><br>🎯 My goals include contributing to open-source projects, mentoring junior developers, and eventually leading a tech team focused on scalable software solutions.</p>
 
 ###
 
